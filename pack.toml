@@ -1,0 +1,13 @@
+name = "The unofficial Quilt Minecraft server modpack"
+author = "Octal"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7dc154752068295a6218ece153e2e6c5dc898aef6aec0fe08a365dcce46d0a13"
+
+[versions]
+minecraft = "1.18.2"
+quilt = "0.16.1"

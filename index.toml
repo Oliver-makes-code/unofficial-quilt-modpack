@@ -1,0 +1,136 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.toml"
+hash = "d31df108d56c6b6f4ab53283672b09a296bd7d65d7f51724212faa3cc598448a"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.toml"
+hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.toml"
+hash = "e01661f4d3b8557335e17c7c849cad61f78c5cc2e5364ff4ac7270f43f7ff427"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.toml"
+hash = "36252af7e1234b6de68a888cb6d859d9f71ba32a1d8ec6b00cbe3d2bc5a50f41"
+metafile = true
+
+[[files]]
+file = "mods/ears.toml"
+hash = "bd9c29083a0a18d6292b60c6f93a9032f44a060cae3636717ca2a485735491a0"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.toml"
+hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "158c40f09b2ed4fe14f5f2925751796fe11f6baee7e1ac7f35931ad831631a3d"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
+metafile = true
+
+[[files]]
+file = "mods/moborigins.toml"
+hash = "076432025ae423d658b912ce56b239b0acffac934ddcf36d80912bb37ca7c36d"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "8f501b0b0f968e3b4819219c5fd5c656500bb0a2736cafff092ce7279fe85574"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.toml"
+hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.toml"
+hash = "d240a40073a8ae5c5f56b4c3cde5d78951ca71dc5b8279f0405f346a537659b7"
+metafile = true
+
+[[files]]
+file = "mods/origins-classes.toml"
+hash = "e86696acaa29f3e9732505a051010a98dd247ded2d669349a754602e72962916"
+metafile = true
+
+[[files]]
+file = "mods/origins.toml"
+hash = "f8cf32a9a4872c9c66312237e1d12bd6dd427ebce1686cd2c499991a86f0ad7e"
+metafile = true
+
+[[files]]
+file = "mods/paradise-lost.toml"
+hash = "53d666e5ab53bc32b1785323486c8513dc0ea9bcae7aec1de686232f6dc02dc4"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
+metafile = true
+
+[[files]]
+file = "mods/qsl.toml"
+hash = "046d2a1630f05efc4c6dc894ca73c0f1f0868ef610262340af86a81283728294"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "8919b918ce7b0126636fb1206b1ce522a7beecc923010a4d011e3a64a27a201a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.toml"
+hash = "9f50922d190120ef3f832a8a3c6bdd123a80b9b16559a58e1b5c5a1520d9b2c4"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/toomanyorigins.toml"
+hash = "4e4cb13ec76e0743106bbfb6eb260b5439f55e5233941f46bb6f7eb6eccf1505"
+metafile = true
+
+[[files]]
+file = "mods/wiredredstone.toml"
+hash = "a238936cc606bde52fdc20caa6109926fa9f3262768e2937a196f86c1a97009e"
+metafile = true
+
+[[files]]
+file = "mods/wthit.toml"
+hash = "0f51270c426ece64c5436d39cf1a17fba5a58de32e4de175929acdd21edc7bc6"
+metafile = true

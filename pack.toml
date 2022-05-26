@@ -1,4 +1,4 @@
-name = "The unofficial Quilt Minecraft server modpack"
+name = "UQM"
 author = "Octal"
 version = "1.0.0"
 pack-format = "packwiz:1.0.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.0.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7dc154752068295a6218ece153e2e6c5dc898aef6aec0fe08a365dcce46d0a13"
+hash = "12d69ac4b5cce856c3e5c96a13eda930235ebf98bbf635c0ade31162000ad9c9"
 
 [versions]
 minecraft = "1.18.2"

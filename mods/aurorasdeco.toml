@@ -1,0 +1,8 @@
+name = "Architectury API"
+filename = "architectury-4.4.64.jar"
+side = "both"
+
+[download]
+url = "https://olivermakesco.de/assets/aurorasdeco-1.0.0+1.18.jar"
+hash-format = "sha1"
+hash = "98cca670d6a1a123fba2be934022ac01eafbd538"

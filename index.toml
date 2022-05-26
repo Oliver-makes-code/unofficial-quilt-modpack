@@ -10,6 +10,11 @@ hash = "9418ae8cf15988ff6cac1669ef797bdb844e42ce9b66d840a17c9581acd999af"
 metafile = true
 
 [[files]]
+file = "mods/cc-restitched.toml"
+hash = "e01661f4d3b8557335e17c7c849cad61f78c5cc2e5364ff4ac7270f43f7ff427"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.toml"
 hash = "36252af7e1234b6de68a888cb6d859d9f71ba32a1d8ec6b00cbe3d2bc5a50f41"
 metafile = true
@@ -17,6 +22,16 @@ metafile = true
 [[files]]
 file = "mods/ears.toml"
 hash = "bd9c29083a0a18d6292b60c6f93a9032f44a060cae3636717ca2a485735491a0"
+metafile = true
+
+[[files]]
+file = "mods/ellemes-container-library.toml"
+hash = "cc5cb83c1f4610b1623c1e01b2646373afc1b9da09694d427d0014ef27509a0a"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage.toml"
+hash = "94d43212c0898676ffb715da52e2f3afd583e9d2b430311978b84f5a0082fd30"
 metafile = true
 
 [[files]]
@@ -147,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/toomanyorigins.toml"
 hash = "4e4cb13ec76e0743106bbfb6eb260b5439f55e5233941f46bb6f7eb6eccf1505"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.toml"
+hash = "63d72c66b2249f6879a0ee28032127ccd03580bbc77b9c374b7910da1685d77b"
 metafile = true
 
 [[files]]

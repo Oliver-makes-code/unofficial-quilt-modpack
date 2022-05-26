@@ -6,7 +6,7 @@ hash = "1e47809451a64807d86b84e714838361cb76032b246cdcd6a2b9f36b40360fd1"
 
 [[files]]
 file = "mods/aurorasdeco.toml"
-hash = "515dc295ca846a4e7d812aa2bcd3384559222f00f418caaebe696fc4329f584b"
+hash = "9418ae8cf15988ff6cac1669ef797bdb844e42ce9b66d840a17c9581acd999af"
 metafile = true
 
 [[files]]
@@ -17,6 +17,11 @@ metafile = true
 [[files]]
 file = "mods/ears.toml"
 hash = "bd9c29083a0a18d6292b60c6f93a9032f44a060cae3636717ca2a485735491a0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "738ffde3eab8e9d0c616e419862ff9c588bbd6009fad70953bd4d4697c88f202"
 metafile = true
 
 [[files]]
@@ -112,11 +117,6 @@ metafile = true
 [[files]]
 file = "mods/qsl.toml"
 hash = "046d2a1630f05efc4c6dc894ca73c0f1f0868ef610262340af86a81283728294"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.toml"
-hash = "9f50922d190120ef3f832a8a3c6bdd123a80b9b16559a58e1b5c5a1520d9b2c4"
 metafile = true
 
 [[files]]

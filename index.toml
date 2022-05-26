@@ -130,6 +130,16 @@ hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.toml"
+hash = "7c10e2599f25e36dab5f53cabbe3213082c853495b3dfc101a36b9dd7b9758b3"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.toml"
+hash = "2ff1e03f5bb7bfcb14687a8c0a9218306f68edd5d726833e7958ba83e64bcad1"
+metafile = true
+
+[[files]]
 file = "mods/toomanyorigins.toml"
 hash = "4e4cb13ec76e0743106bbfb6eb260b5439f55e5233941f46bb6f7eb6eccf1505"
 metafile = true

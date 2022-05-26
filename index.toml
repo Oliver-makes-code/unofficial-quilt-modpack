@@ -60,6 +60,11 @@ hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
 
 [[files]]
+file = "mods/ledger.toml"
+hash = "4f161155343d7d8ea0e5111b2fa601e2ece1501b932685a53487999524683100"
+metafile = true
+
+[[files]]
 file = "mods/lithium.toml"
 hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
@@ -102,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.toml"
 hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
+metafile = true
+
+[[files]]
+file = "mods/plymouth-anti-xray.toml"
+hash = "8adb49c7e217a1a13491cd5cf47a8505de9c1e2d358b600d9516b1a9f131d489"
 metafile = true
 
 [[files]]

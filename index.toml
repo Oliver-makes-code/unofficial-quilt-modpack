@@ -2,21 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
-
-[[files]]
-file = "mods/architectury-api.toml"
-hash = "d31df108d56c6b6f4ab53283672b09a296bd7d65d7f51724212faa3cc598448a"
-metafile = true
+hash = "1e47809451a64807d86b84e714838361cb76032b246cdcd6a2b9f36b40360fd1"
 
 [[files]]
 file = "mods/aurorasdeco.toml"
 hash = "25fc67856c80f91a2b8a5193eb22f3e925bcd686ad20ea15aeac45c779a98fde"
-metafile = true
-
-[[files]]
-file = "mods/badpackets.toml"
-hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
 
 [[files]]
@@ -157,9 +147,4 @@ metafile = true
 [[files]]
 file = "mods/wiredredstone.toml"
 hash = "a238936cc606bde52fdc20caa6109926fa9f3262768e2937a196f86c1a97009e"
-metafile = true
-
-[[files]]
-file = "mods/wthit.toml"
-hash = "0f51270c426ece64c5436d39cf1a17fba5a58de32e4de175929acdd21edc7bc6"
 metafile = true

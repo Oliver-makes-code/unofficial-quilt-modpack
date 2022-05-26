@@ -100,11 +100,6 @@ hash = "f8cf32a9a4872c9c66312237e1d12bd6dd427ebce1686cd2c499991a86f0ad7e"
 metafile = true
 
 [[files]]
-file = "mods/paradise-lost.toml"
-hash = "53d666e5ab53bc32b1785323486c8513dc0ea9bcae7aec1de686232f6dc02dc4"
-metafile = true
-
-[[files]]
 file = "mods/phosphor.toml"
 hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
 metafile = true
@@ -112,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/plymouth-anti-xray.toml"
 hash = "8adb49c7e217a1a13491cd5cf47a8505de9c1e2d358b600d9516b1a9f131d489"
+metafile = true
+
+[[files]]
+file = "mods/polymer.toml"
+hash = "070ac2de2363cdd8816d3a2d26d691a7f99beb2df1a655291b2d2b5f744de342"
 metafile = true
 
 [[files]]

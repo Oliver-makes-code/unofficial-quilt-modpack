@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "1e47809451a64807d86b84e714838361cb76032b246cdcd6a2b9f36b40360fd1"
-
-[[files]]
 file = "mods/arch-ex.toml"
 hash = "f13d4d81d53e4e55be14ec5b1a895971a3c5982fec1933399f0b5d5ea69325d9"
 metafile = true

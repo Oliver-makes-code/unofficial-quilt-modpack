@@ -11,6 +11,16 @@ hash = "9418ae8cf15988ff6cac1669ef797bdb844e42ce9b66d840a17c9581acd999af"
 metafile = true
 
 [[files]]
+file = "mods/beebuddy.toml"
+hash = "25a5a0dd241fc782635cad404928967a7ad54397aca1cd388334693732efa45c"
+metafile = true
+
+[[files]]
+file = "mods/boatjump.toml"
+hash = "a82cb14a2639dabc8b1be7d8b6360880e9ad2d81fb40623edc501f2ac6dd1d4b"
+metafile = true
+
+[[files]]
 file = "mods/cc-restitched.toml"
 hash = "e01661f4d3b8557335e17c7c849cad61f78c5cc2e5364ff4ac7270f43f7ff427"
 metafile = true
@@ -96,6 +106,11 @@ hash = "8f501b0b0f968e3b4819219c5fd5c656500bb0a2736cafff092ce7279fe85574"
 metafile = true
 
 [[files]]
+file = "mods/muffle.toml"
+hash = "ce9332b19a504453ca9d446fbf4ad737975da51ab3eea1d531f817047013d557"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.toml"
 hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
 metafile = true
@@ -113,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/origins.toml"
 hash = "f8cf32a9a4872c9c66312237e1d12bd6dd427ebce1686cd2c499991a86f0ad7e"
+metafile = true
+
+[[files]]
+file = "mods/paradise-lost.toml"
+hash = "53d666e5ab53bc32b1785323486c8513dc0ea9bcae7aec1de686232f6dc02dc4"
 metafile = true
 
 [[files]]

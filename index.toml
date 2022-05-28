@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-restitched.toml"
-hash = "e01661f4d3b8557335e17c7c849cad61f78c5cc2e5364ff4ac7270f43f7ff427"
+hash = "2b9722efede27f7754f70ccc2228f3136e3d98aca3d1b25e977697ebaa2dc1bd"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.toml"
-hash = "070ac2de2363cdd8816d3a2d26d691a7f99beb2df1a655291b2d2b5f744de342"
+hash = "ffc395f413262fe852adb126f7badd8217c1bcfc6acb18f04f5ababa3073c360"
 metafile = true
 
 [[files]]
@@ -158,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/quilt-loading-screen.toml"
 hash = "8c0b6b4af1aa2dda3b4d09ac32640b4f06523100a66be0c794d39688bacae3bc"
+metafile = true
+
+[[files]]
+file = "mods/servshred.toml"
+hash = "e8dd6abfd6027667637ed140c65821a66a7589f92c286548b6f27936be05144a"
 metafile = true
 
 [[files]]
@@ -202,5 +207,5 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.toml"
-hash = "a238936cc606bde52fdc20caa6109926fa9f3262768e2937a196f86c1a97009e"
+hash = "a590aec7635d4e1ac71972847eafbb56c9d773f43d3c57d8e7c380aec13ba1d0"
 metafile = true

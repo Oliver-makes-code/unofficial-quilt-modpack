@@ -204,8 +204,3 @@ metafile = true
 file = "mods/universal-graves.toml"
 hash = "63d72c66b2249f6879a0ee28032127ccd03580bbc77b9c374b7910da1685d77b"
 metafile = true
-
-[[files]]
-file = "mods/wiredredstone.toml"
-hash = "a590aec7635d4e1ac71972847eafbb56c9d773f43d3c57d8e7c380aec13ba1d0"
-metafile = true

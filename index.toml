@@ -116,11 +116,6 @@ hash = "076432025ae423d658b912ce56b239b0acffac934ddcf36d80912bb37ca7c36d"
 metafile = true
 
 [[files]]
-file = "mods/modern-industrialization.toml"
-hash = "bc9707c52f77dd6ae419d1c071de6fe44623314efba9f3d46fcaa1b37ec986bc"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.toml"
 hash = "8f501b0b0f968e3b4819219c5fd5c656500bb0a2736cafff092ce7279fe85574"
 metafile = true

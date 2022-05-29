@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ae2.toml"
+hash = "ec52e3081fc8f639198c4712016823bd7ee1178670aef8bb34e6836dea132425"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.toml"
+hash = "d07e685570c2f1c03c49ea66682566c1d9bacdaa528f127259ec4d24040b858e"
+metafile = true
+
+[[files]]
 file = "mods/arch-ex.toml"
 hash = "f13d4d81d53e4e55be14ec5b1a895971a3c5982fec1933399f0b5d5ea69325d9"
 metafile = true
@@ -28,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.toml"
 hash = "36252af7e1234b6de68a888cb6d859d9f71ba32a1d8ec6b00cbe3d2bc5a50f41"
+metafile = true
+
+[[files]]
+file = "mods/createplus.toml"
+hash = "84a26eada70c919e518bdc9f51f1df2b5283d98b6b1acd1d0ae33f162b5e26df"
 metafile = true
 
 [[files]]
@@ -101,6 +116,11 @@ hash = "076432025ae423d658b912ce56b239b0acffac934ddcf36d80912bb37ca7c36d"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.toml"
+hash = "bc9707c52f77dd6ae419d1c071de6fe44623314efba9f3d46fcaa1b37ec986bc"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "8f501b0b0f968e3b4819219c5fd5c656500bb0a2736cafff092ce7279fe85574"
 metafile = true
@@ -168,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/structure-tools.toml"
+hash = "3121f183bb2c0d97377aec61d7c523ab88c75c17afe520d6f3d70b4688c595b0"
 metafile = true
 
 [[files]]

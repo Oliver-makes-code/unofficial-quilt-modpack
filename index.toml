@@ -36,11 +36,6 @@ hash = "2b9722efede27f7754f70ccc2228f3136e3d98aca3d1b25e977697ebaa2dc1bd"
 metafile = true
 
 [[files]]
-file = "mods/ccae.toml"
-hash = "965201f82f24fd5eb039a23ff3263ee0d651f5b8404b405984b40a27d99733c3"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.toml"
 hash = "36252af7e1234b6de68a888cb6d859d9f71ba32a1d8ec6b00cbe3d2bc5a50f41"
 metafile = true

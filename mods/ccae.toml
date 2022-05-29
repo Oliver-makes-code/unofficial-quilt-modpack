@@ -1,8 +1,0 @@
-name = "Create Crafts & Additions"
-filename = "createaddition-1.18.2.jar"
-side = "both"
-
-[download]
-url = "https://olivermakesco.de/assets/createaddition-1.18.2.jar"
-hash-format = "sha1"
-hash = "5246471ab3cc7d8a60581b0cb5f54a28d1a133af"

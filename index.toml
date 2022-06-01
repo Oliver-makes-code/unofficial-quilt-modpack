@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.toml"
-hash = "f13d4d81d53e4e55be14ec5b1a895971a3c5982fec1933399f0b5d5ea69325d9"
+hash = "b9b04d3fe7344e71ec805ae30a11aa8723290fff13e04baff93ea865bc686085"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.toml"
-hash = "ffc395f413262fe852adb126f7badd8217c1bcfc6acb18f04f5ababa3073c360"
+hash = "4410e5bed5967d530676a5dfd23c9b86894c95d3ca872a6c2bfe547fe368c135"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.toml"
-hash = "046d2a1630f05efc4c6dc894ca73c0f1f0868ef610262340af86a81283728294"
+hash = "3e96dfc74a93f2f169b9a5d270112ab15fd016768e9b9a34ef72cddc650eac2b"
 metafile = true
 
 [[files]]

@@ -71,6 +71,11 @@ hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
+file = "mods/fwaystones.toml"
+hash = "c69cafa2a1579de40fa2b7c4dc278bd59ab26f3e2ea79a6e1ee26d7dcd4b2b78"
+metafile = true
+
+[[files]]
 file = "mods/indium.toml"
 hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
 metafile = true
@@ -166,6 +171,11 @@ hash = "ffc395f413262fe852adb126f7badd8217c1bcfc6acb18f04f5ababa3073c360"
 metafile = true
 
 [[files]]
+file = "mods/purpeille.toml"
+hash = "ec56c9f97258b7bf4868ea4893608dd32647a414f9f18097b7ce81a1b188acb6"
+metafile = true
+
+[[files]]
 file = "mods/qsl.toml"
 hash = "046d2a1630f05efc4c6dc894ca73c0f1f0868ef610262340af86a81283728294"
 metafile = true
@@ -176,8 +186,18 @@ hash = "8c0b6b4af1aa2dda3b4d09ac32640b4f06523100a66be0c794d39688bacae3bc"
 metafile = true
 
 [[files]]
+file = "mods/sandwichable.toml"
+hash = "05ac14b7e41f25d5492073c716e5cdd648b1e4286282690f5485b6c300500874"
+metafile = true
+
+[[files]]
 file = "mods/servshred.toml"
 hash = "e8dd6abfd6027667637ed140c65821a66a7589f92c286548b6f27936be05144a"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "8919b918ce7b0126636fb1206b1ce522a7beecc923010a4d011e3a64a27a201a"
 metafile = true
 
 [[files]]

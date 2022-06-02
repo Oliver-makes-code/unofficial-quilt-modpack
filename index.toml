@@ -31,6 +31,11 @@ hash = "a82cb14a2639dabc8b1be7d8b6360880e9ad2d81fb40623edc501f2ac6dd1d4b"
 metafile = true
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "c2783a93350139acbb79b18d098ae4e76b3460130b679d21d349ac4181571855"
+metafile = true
+
+[[files]]
 file = "mods/cc-restitched.toml"
 hash = "2b9722efede27f7754f70ccc2228f3136e3d98aca3d1b25e977697ebaa2dc1bd"
 metafile = true
@@ -238,4 +243,9 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.toml"
 hash = "63d72c66b2249f6879a0ee28032127ccd03580bbc77b9c374b7910da1685d77b"
+metafile = true
+
+[[files]]
+file = "mods/victus.pw.toml"
+hash = "a005d87431d4ed02a03f5314db53ec359c81985f19db7720efbbfc557c1320e0"
 metafile = true

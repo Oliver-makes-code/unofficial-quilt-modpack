@@ -1,12 +1,12 @@
 name = "UQM"
 author = "Octal"
 version = "1.0.6"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "96c6c0523339af0da4ac1e3a091bd8a6f221ba26072e01e9982f44f6eef0fef0"
+hash = "80db23d1c84c61f4680f2d0d6ec5519304b4e0ba90f57afadd09e4f4be6996e4"
 
 [versions]
 minecraft = "1.18.2"

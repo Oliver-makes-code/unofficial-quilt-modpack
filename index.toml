@@ -161,6 +161,11 @@ hash = "53d666e5ab53bc32b1785323486c8513dc0ea9bcae7aec1de686232f6dc02dc4"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "41648c2dd451dda685897dfe215a9d47c91ff5c62de2055ab6140ffc9cb45b45"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.toml"
 hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
 metafile = true

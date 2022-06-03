@@ -46,11 +46,6 @@ hash = "85ddcfb16aa129ae2cc12343b533ea0e6feb3257869af25c4b2ca9adc08c9605"
 metafile = true
 
 [[files]]
-file = "mods/createplus.toml"
-hash = "84a26eada70c919e518bdc9f51f1df2b5283d98b6b1acd1d0ae33f162b5e26df"
-metafile = true
-
-[[files]]
 file = "mods/ears.toml"
 hash = "bd9c29083a0a18d6292b60c6f93a9032f44a060cae3636717ca2a485735491a0"
 metafile = true

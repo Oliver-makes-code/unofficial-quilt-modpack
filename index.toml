@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.toml"
-hash = "36252af7e1234b6de68a888cb6d859d9f71ba32a1d8ec6b00cbe3d2bc5a50f41"
+hash = "85ddcfb16aa129ae2cc12343b533ea0e6feb3257869af25c4b2ca9adc08c9605"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.toml"
-hash = "4410e5bed5967d530676a5dfd23c9b86894c95d3ca872a6c2bfe547fe368c135"
+hash = "e809e92b440c5321e43e34fc2075baac23e0fc0d882ae6fc4da00feb87a913b7"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.toml"
-hash = "3e96dfc74a93f2f169b9a5d270112ab15fd016768e9b9a34ef72cddc650eac2b"
+hash = "d29f3453270997e009cf7dc946594053b717c2eb6981d7a2515ab287751564d7"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.toml"
-hash = "63d72c66b2249f6879a0ee28032127ccd03580bbc77b9c374b7910da1685d77b"
+hash = "7a1300eb98aef97135125d2b608136f2f5b1f2c3cd33377417c069c95135e403"
 metafile = true
 
 [[files]]

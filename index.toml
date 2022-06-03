@@ -196,6 +196,11 @@ hash = "8c0b6b4af1aa2dda3b4d09ac32640b4f06523100a66be0c794d39688bacae3bc"
 metafile = true
 
 [[files]]
+file = "mods/refmagic.pw.toml"
+hash = "58e69f820d8537ba2f6c447ef2906a157a5b45cbb0af5ebf480992fed313bd50"
+metafile = true
+
+[[files]]
 file = "mods/sandwichable.toml"
 hash = "05ac14b7e41f25d5492073c716e5cdd648b1e4286282690f5485b6c300500874"
 metafile = true

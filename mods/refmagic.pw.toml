@@ -1,0 +1,14 @@
+name = "Refined Magic"
+filename = "refmagic-1.0.0-betat5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yTtdp6Mq/versions/1.0.0-beta10/refmagic-1.0.0-beta10.jar"
+hash-format = "sha1"
+hash = "7655175b106fd0b9fb2efbd26e2c0b62eb771529"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "yTtdp6Mq"
+version = "xmPdTnzK"

@@ -21,6 +21,11 @@ hash = "4da8fe6e57f8a8ce9a3367f184e1d47b71b0ff7fbbc654f190a80136e20d06d5"
 metafile = true
 
 [[files]]
+file = "mods/beaconoverhaul.pw.toml"
+hash = "859096f0bc1e93c52c6ff7459bdd07074e897a268f36515c23bfea4036fbdb1e"
+metafile = true
+
+[[files]]
 file = "mods/beebuddy.toml"
 hash = "25a5a0dd241fc782635cad404928967a7ad54397aca1cd388334693732efa45c"
 metafile = true

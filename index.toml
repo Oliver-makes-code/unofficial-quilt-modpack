@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/refmagic.pw.toml"
-hash = "58e69f820d8537ba2f6c447ef2906a157a5b45cbb0af5ebf480992fed313bd50"
+hash = "e4bf2c17c6d77a53245ad45c944510c77ea51cbd88035cdf397813dda677e547"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Plymouth: Anti-Xray"
-filename = "ply-anti-xray-0.0.0-rc.5+mc.1.18.2-rc1.jar"
+filename = "ply-anti-xray-0.0.0-rc.6+mc.1.19-pre5.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/6Zrbdphe/versions/0.0.0-rc.5+mc.1.18.2-rc1/ply-anti-xray-0.0.0-rc.5%2Bmc.1.18.2-rc1.jar"
+url = "https://cdn.modrinth.com/data/6Zrbdphe/versions/0.0.0-rc.6+mc.1.19-pre5/ply-anti-xray-0.0.0-rc.6%2Bmc.1.19-pre5.jar"
 hash-format = "sha1"
-hash = "cbf7b4df15fd058ff081bc0eb40a0d19ede20919"
+hash = "cbc747f9f0fa3b68fb2f23f98534059012404711"
 
 [update]
 [update.modrinth]
 mod-id = "6Zrbdphe"
-version = "AJeHID4e"
+version = "4bRhVoHH"

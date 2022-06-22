@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/plymouth-anti-xray.toml"
-hash = "fe9285066cf3e534d34651c40f8998d0e0301aaac2d0ae31c6fcf2d449234327"
+hash = "eef1dbeb27344e8781d9f3820b463fa55d2792b1d37c6c43521a00457c1e0688"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Ellemes' Container Library"
-filename = "ellemes-container-library-1.4.0-beta.3+1.18.2-quilt.jar"
+filename = "ellemes-container-library-2.0.0-beta.4+1.19-quilt.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KV8SBboh/versions/1.4.0-beta.3+quilt/ellemes-container-library-1.4.0-beta.3%2B1.18.2-quilt.jar"
+url = "https://cdn.modrinth.com/data/KV8SBboh/versions/2.0.0-beta.4+quilt/ellemes-container-library-2.0.0-beta.4%2B1.19-quilt.jar"
 hash-format = "sha1"
-hash = "fcace620827a9e8e6f7523d91f3c5999876be9f8"
+hash = "124770b4e13209822220cce8f6308d1ae0134c8a"
 
 [update]
 [update.modrinth]
 mod-id = "KV8SBboh"
-version = "3HXXyRdD"
+version = "QBP22OiF"

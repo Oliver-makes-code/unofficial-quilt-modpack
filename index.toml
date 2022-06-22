@@ -56,13 +56,13 @@ hash = "bd9c29083a0a18d6292b60c6f93a9032f44a060cae3636717ca2a485735491a0"
 metafile = true
 
 [[files]]
-file = "mods/ellemes-container-library.toml"
-hash = "cc5cb83c1f4610b1623c1e01b2646373afc1b9da09694d427d0014ef27509a0a"
+file = "mods/ellemes-container-library.pw.toml"
+hash = "23959f2ac68a964b5c7559be35995bfa2a179c2b74516bc8aa7a06e8ad3956fa"
 metafile = true
 
 [[files]]
-file = "mods/expanded-storage.toml"
-hash = "94d43212c0898676ffb715da52e2f3afd583e9d2b430311978b84f5a0082fd30"
+file = "mods/expanded-storage.pw.toml"
+hash = "c843017f46fc62f9b60e55f7bc26380d0287a1a439c6a9cb80c10c26d144d2b2"
 metafile = true
 
 [[files]]

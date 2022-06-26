@@ -31,8 +31,8 @@ hash = "25a5a0dd241fc782635cad404928967a7ad54397aca1cd388334693732efa45c"
 metafile = true
 
 [[files]]
-file = "mods/boatjump.toml"
-hash = "a82cb14a2639dabc8b1be7d8b6360880e9ad2d81fb40623edc501f2ac6dd1d4b"
+file = "mods/boatjump.pw.toml"
+hash = "5b1f30716fad49372ef53e3981934beb06fb5d26a2878baec0be7ca99b7e874a"
 metafile = true
 
 [[files]]

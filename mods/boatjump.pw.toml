@@ -1,0 +1,13 @@
+name = "[Fabric] BoatJump"
+filename = "boatjump-1.1.0-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7fa79755c42840434e07db79a142d208ae819c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3826233
+project-id = 602110

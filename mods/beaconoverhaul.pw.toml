@@ -1,13 +1,13 @@
 name = "Beacon Overhaul"
-filename = "BeaconOverhaul-1.6.0+1.18.2.jar"
+filename = "BeaconOverhaul-1.7.0+1.19.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/v0cwu8bJ/versions/1.7.0+1.19/BeaconOverhaul-1.7.0%2B1.19.jar"
 hash-format = "sha1"
-hash = "59cdad980ec05ae8bc4314fde7f0539c9c756d42"
-mode = "metadata:curseforge"
+hash = "6d7f8cf53e0ca4a7bfa311fb649f1763be748244"
 
 [update]
-[update.curseforge]
-file-id = 3683935
-project-id = 430382
+[update.modrinth]
+mod-id = "v0cwu8bJ"
+version = "U3ADeedF"

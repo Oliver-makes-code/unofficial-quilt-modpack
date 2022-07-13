@@ -1,8 +1,0 @@
-name = "Auroras Decorations"
-filename = "aurorasdecorations-1.0.0+1.18.jar"
-side = "both"
-
-[download]
-url = "https://olivermakesco.de/assets/aurorasdecorations-1.0.0+1.18.jar"
-hash-format = "sha1"
-hash = "57ecd00e42a54db2dba59aa0a009c6240c3095dc"

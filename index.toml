@@ -66,6 +66,11 @@ hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "ac0a425f01b57603d143e65eebba8b53078474c61f8f0a9a35ab2bbd7ed3a931"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
@@ -86,13 +91,13 @@ hash = "1cefb097ea4012055582060d6939a7928f359a514f01dde8cbf0edb58a13d388"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
+file = "mods/keepheadnames.pw.toml"
+hash = "7e1a3a881192e77c3b6df591bcf683791dc43d7cb4351799e22089446d81db70"
 metafile = true
 
 [[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
+file = "mods/krypton.pw.toml"
+hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
 metafile = true
 
 [[files]]
@@ -178,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "8e81543992fe3ce4dab725e2f32f877e0f28eb7c806c178958f5c472f59f1dd8"
+metafile = true
+
+[[files]]
+file = "mods/servertick.pw.toml"
+hash = "4ad1f4d5630879670b010035610eb35e8fb3eec45b1d908f6a68b4a91ecbe843"
 metafile = true
 
 [[files]]

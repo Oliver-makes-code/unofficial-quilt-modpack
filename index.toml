@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
+hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "482d796d5448f41d254a12f60dc3891f88b5337c9d87ef0775306de00f9ef6e6"
+hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "8b97bcb57adfcc1b337bcb7a6c99aef3688ea5f0e6690771c1245bcf3f749637"
+hash = "e2d1dd8ad7f7f82444acdaea28d5091125a8cfb4d99d0da104289f1f3a3666b5"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d4aca8f69489a3df5cbd9793e3f74f107b1b8da477bd21b6125db6d4b182cf92"
+hash = "b054c54c9732cf012526bcb529c189f808692c17aa29e306444a2110df43d38d"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "b4d8e22f7916c1a2e8be07b708cd02d16bd730e382bb7ca36a615cf3e6782940"
+hash = "ae4b4112db3f14bcb9e8dc10ea06e83d84bff4d9ad2a3dfd74533c1256b98218"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "1a76c382eff70901318bf2f53a05be0e9ad4d3c10a3efe17f79a1ee1d739457d"
+hash = "39b7b54ac9221d29320c92bf8defa300272f52bba5b64aa1de300e41936a76d3"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "8bdc3c1b5079b7fbe89f995d1a100e1df8dcf47e73ef089abf444ecc8e320527"
+hash = "3f2148f425622b9226aac1a5ea41f6613f9fdc0f484eadd72d30714ab0a73895"
 metafile = true
 
 [[files]]
@@ -232,15 +232,15 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "b8dfd96f7a73b5f02e946ec55130aed0f6d957ed377992e95ae2336010f0b1e7"
+hash = "bbce979d492829da906d857f26bbbc2e24681b38e190b333b6f3180d20460c08"
 metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "a5e5dab25ba6fcb3e7b986b20a91da30efed85b02c285827022d870adf353fee"
+hash = "6eb990f9c6adb67ff010787dc2e545afa6a914fd9756b8cfea21f3b8e8fafad7"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "d2ee0734a9f152bc0c93fc9d660f615cdf839ba269e321ecb2607f34ac44c097"
+hash = "17554f552f85b9170399bd79dcd842138d4e777f8f9d129b0631a84c20d998cb"
 metafile = true

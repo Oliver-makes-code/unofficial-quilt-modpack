@@ -21,6 +21,11 @@ hash = "f06d2023edfd505850b00538fad3e4963fd0b88e8385e1610a3cbe258a806d75"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "70cec5805ca58df9312b10155ca00151dfeb0204af18f1f76da4b04d31e2dc11"
+metafile = true
+
+[[files]]
 file = "mods/cauldron-dyeing.pw.toml"
 hash = "7a8330bc190ef8987cfcb4a5de7bc8ff919756413e6d80aae91573785eb0244d"
 metafile = true

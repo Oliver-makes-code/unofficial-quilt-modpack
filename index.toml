@@ -71,8 +71,8 @@ hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
 
 [[files]]
-file = "mods/fastload.pw.toml"
-hash = "ac0a425f01b57603d143e65eebba8b53078474c61f8f0a9a35ab2bbd7ed3a931"
+file = "mods/fabrictailor.pw.toml"
+hash = "d7892548e0b0bbcad9dccd94f99786770d296d386eb1eaab525b56046aa7218a"
 metafile = true
 
 [[files]]
@@ -156,6 +156,11 @@ hash = "ea59340e930874c307b1dd1d17dd068dc5598e1f1a01055de1f5cb433780a1ee"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "4ace069e9be0d26966a236d4935edd5832d2a52e2268a43b63eb7843130b384f"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "e2d1dd8ad7f7f82444acdaea28d5091125a8cfb4d99d0da104289f1f3a3666b5"
 metafile = true
@@ -183,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "ae4b4112db3f14bcb9e8dc10ea06e83d84bff4d9ad2a3dfd74533c1256b98218"
+metafile = true
+
+[[files]]
+file = "mods/roundaround-villager-converting.pw.toml"
+hash = "1d1e608a8e7f14ced76046d59d7f80c232e830508d150088c0422ef32ec22921"
 metafile = true
 
 [[files]]
@@ -233,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/toomanyorigins.pw.toml"
 hash = "59a642d36d868489000a549a21a2fbbb9d94c9ca54d12a813005a5955cfda621"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "04119a476bbae1307d74e02b38e7d381f0224474714c1e951ed851fe20caca58"
 metafile = true
 
 [[files]]

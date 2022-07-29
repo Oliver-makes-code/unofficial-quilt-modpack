@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "4cebd7a733410dc4fc89519a8fc9ffb3c6657fffb58897e46196ade4629ea065"
+hash = "ce4bb007f4911a2bea3ec9ec6756582a0bf48ccc56dcb17c01d22868b669b8f2"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "e2d1dd8ad7f7f82444acdaea28d5091125a8cfb4d99d0da104289f1f3a3666b5"
+hash = "2b20ba4033a23a6cb20ef47f89e0a497dd6be70756383dd93640349b20ea066e"
 metafile = true
 
 [[files]]
@@ -252,15 +252,15 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "bbce979d492829da906d857f26bbbc2e24681b38e190b333b6f3180d20460c08"
+hash = "01cd799124d6e1709187f7bc49666ff87e774aafb50f7b97b3689fc210bef5d7"
 metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "6eb990f9c6adb67ff010787dc2e545afa6a914fd9756b8cfea21f3b8e8fafad7"
+hash = "3bbf8e4f0a9bb35863f154b8b36e24bd32999d9c948fa366ad944e1c913e529f"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "17554f552f85b9170399bd79dcd842138d4e777f8f9d129b0631a84c20d998cb"
+hash = "cec6c78672e420d4f38f05cb3a95fed3d76ec3573804244a29edfd3859269281"
 metafile = true

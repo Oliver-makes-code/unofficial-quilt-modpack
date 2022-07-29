@@ -16,16 +16,6 @@ hash = "08bf1018fc1643357429454a2c2f28080b500957ef0675ab4d2186bd95c5c7b0"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "f06d2023edfd505850b00538fad3e4963fd0b88e8385e1610a3cbe258a806d75"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "70cec5805ca58df9312b10155ca00151dfeb0204af18f1f76da4b04d31e2dc11"
-metafile = true
-
-[[files]]
 file = "mods/cauldron-dyeing.pw.toml"
 hash = "7a8330bc190ef8987cfcb4a5de7bc8ff919756413e6d80aae91573785eb0244d"
 metafile = true
@@ -93,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/inspecio.pw.toml"
 hash = "1cefb097ea4012055582060d6939a7928f359a514f01dde8cbf0edb58a13d388"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "3363cceac969eef8fb0f95036c1de3909472e03000cb8cc2e8066135840f4ef6"
 metafile = true
 
 [[files]]
@@ -228,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "59a4bb945db1a796bb4c319eb7b5319d3f61fa0f8b2d986f7d77f6a0b8d90953"
 metafile = true
 
 [[files]]

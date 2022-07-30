@@ -156,8 +156,18 @@ hash = "4ace069e9be0d26966a236d4935edd5832d2a52e2268a43b63eb7843130b384f"
 metafile = true
 
 [[files]]
+file = "mods/picturesign.pw.toml"
+hash = "de98473ec784d53d4dc03aeb17dbc562658d02da5ff9222b43b9b87c20b51dd9"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "2b20ba4033a23a6cb20ef47f89e0a497dd6be70756383dd93640349b20ea066e"
+metafile = true
+
+[[files]]
+file = "mods/polysit.pw.toml"
+hash = "f9395e59a5a650e888ebaa91531317f2e523a0c7f3fc8d24dcf5bfa0ac3cf4a7"
 metafile = true
 
 [[files]]

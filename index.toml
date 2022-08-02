@@ -16,6 +16,11 @@ hash = "08bf1018fc1643357429454a2c2f28080b500957ef0675ab4d2186bd95c5c7b0"
 metafile = true
 
 [[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "e7d7b42cc3b56d79d18599f936742b711f849b372ca4b6106a5d00d624573d59"
+metafile = true
+
+[[files]]
 file = "mods/cauldron-dyeing.pw.toml"
 hash = "7a8330bc190ef8987cfcb4a5de7bc8ff919756413e6d80aae91573785eb0244d"
 metafile = true

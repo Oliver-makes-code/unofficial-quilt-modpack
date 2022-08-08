@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/beaconoverhaul.pw.toml"
-hash = "08bf1018fc1643357429454a2c2f28080b500957ef0675ab4d2186bd95c5c7b0"
+hash = "e6594654ecc0cb73faef21d6d434cdd5382d28ca7b58aa20d9b97101127b3452"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "ce4bb007f4911a2bea3ec9ec6756582a0bf48ccc56dcb17c01d22868b669b8f2"
+hash = "dd03b3d00d5c367dde03f049b2418131c1cd5b2146c998e0b24b3aa80ae4d9d4"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
+hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
 
 [[files]]
@@ -126,6 +126,11 @@ hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
 metafile = true
 
 [[files]]
+file = "mods/morefrogs.pw.toml"
+hash = "66d0dce989c384aa85134aa9103122ebeea592ca329d90fcceaa5e1b658d60c8"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
 metafile = true
@@ -152,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "4ace069e9be0d26966a236d4935edd5832d2a52e2268a43b63eb7843130b384f"
+hash = "f5c5039ecca5f696933623268db481026e44160cb5eee6de3b2485d06e08e829"
 metafile = true
 
 [[files]]
@@ -172,12 +177,12 @@ metafile = true
 
 [[files]]
 file = "mods/promenade.pw.toml"
-hash = "083eae895c5e331da837214c468ee42347228b9989e1261aa258d705b1d01d9d"
+hash = "347ccf45370cce05e8341ae2c2ef987ad2af7b2763335943b1788fac6599fca8"
 metafile = true
 
 [[files]]
 file = "mods/purpeille.pw.toml"
-hash = "c519aeda42ea86c925c58f0e39a7410d29db080321f2cdf542de926caa089cf8"
+hash = "21d65a3503e8f92ebecafd5165eb56afa8da3612b1df45c587954636942673ae"
 metafile = true
 
 [[files]]
@@ -202,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "8e81543992fe3ce4dab725e2f32f877e0f28eb7c806c178958f5c472f59f1dd8"
+hash = "d6f39140fdd6827d6efb1d077aa2ed541a78dc49eee6cd23db86216792db4c72"
 metafile = true
 
 [[files]]
@@ -212,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "39b7b54ac9221d29320c92bf8defa300272f52bba5b64aa1de300e41936a76d3"
+hash = "fe4694699a461b3f3ebcd76a9130fb4cf5a20df9b7d88f88f45d1312c96fe06d"
 metafile = true
 
 [[files]]
@@ -252,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/toomanyorigins.pw.toml"
-hash = "59a642d36d868489000a549a21a2fbbb9d94c9ca54d12a813005a5955cfda621"
+hash = "1968f8fe5ea24bb78b64659c4c937d2cd5ed54fe804939cdab2a56e0db47e437"
 metafile = true
 
 [[files]]
@@ -262,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "01cd799124d6e1709187f7bc49666ff87e774aafb50f7b97b3689fc210bef5d7"
+hash = "98636b823c117cc7fd28f3779b6de0c37141cfc753cf395bf08fe8ae67bb4b3c"
 metafile = true
 
 [[files]]
@@ -272,5 +277,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "cec6c78672e420d4f38f05cb3a95fed3d76ec3573804244a29edfd3859269281"
+hash = "6473a3def930cc9a293a3fff40f8d4070be24f0b74a090d994d17e8b103858b5"
 metafile = true

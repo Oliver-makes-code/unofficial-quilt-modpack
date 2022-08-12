@@ -11,3 +11,7 @@ hash = "14ab2f560fce8f20f5af07129dd71130ab9bb03f"
 [update.modrinth]
 mod-id = "uXXizFIs"
 version = "7epbwkFg"
+
+[option]
+optional = true
+default = true

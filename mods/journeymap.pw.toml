@@ -1,6 +1,6 @@
 name = "JourneyMap"
 filename = "journeymap-1.19-5.8.5-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/1.19-5.8.5-fabric/journeymap-1.19-5.8.5-fabric.jar"
@@ -11,3 +11,6 @@ hash = "3efde6cb828aa0c2d1d9530087005e8893ddd2a2"
 [update.modrinth]
 mod-id = "lfHFW1mp"
 version = "13mFdp57"
+
+[option]
+optional = true

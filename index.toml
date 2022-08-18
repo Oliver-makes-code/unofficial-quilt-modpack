@@ -6,6 +6,11 @@ hash = "d8ab07c1dcf51ad3f5cf25f425f938c3540e575e3353ff6c0f5d0c4b990a38ab"
 metafile = true
 
 [[files]]
+file = "mods/aurorasdecorations.pw.toml"
+hash = "cf0ead22d8290e00a8447bc25a036a6237bda7d18901d40db3aabedc836ac2b2"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "c59209e703e553f58306aa1a66dc30a58476f89ad2d40da540508dc72fe0311f"
 metafile = true
@@ -47,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "dd03b3d00d5c367dde03f049b2418131c1cd5b2146c998e0b24b3aa80ae4d9d4"
+hash = "fb38a06a5c8874d83b112f55ac063f8b2c69f9e99660fd323405c91d8a6e7d5b"
 metafile = true
 
 [[files]]
@@ -62,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
-hash = "d7892548e0b0bbcad9dccd94f99786770d296d386eb1eaab525b56046aa7218a"
+hash = "ee79ad8705405b27a03fb37f62c566f70c9e1e0ef69e1555ab3a4b3f40743d87"
 metafile = true
 
 [[files]]
@@ -127,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/morefrogs.pw.toml"
-hash = "213938169a69fe26d343bcef7c90c50f2b9b13e46b3d9ad7c37ef81cd2a14d7b"
+hash = "13b39db8bcc7fda2809182f41118a991db87f1fa785e26defc5d8e83c3bccd31"
 metafile = true
 
 [[files]]
@@ -152,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "ea59340e930874c307b1dd1d17dd068dc5598e1f1a01055de1f5cb433780a1ee"
+hash = "d2dbe33fa927b10398c5a1a42ca8a2f925a802b7a0bef4d1e76ab5ff54a25aba"
 metafile = true
 
 [[files]]
@@ -167,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "3572f9a89d118a55682cbce046eebdb6d0f6e425a77dd551d0a04a0bb66537b3"
+hash = "4d4394a474572a6e930eea901b7333f00c6a1f9f721e7a68d254eb46b1c21449"
 metafile = true
 
 [[files]]
@@ -182,12 +187,12 @@ metafile = true
 
 [[files]]
 file = "mods/purpeille.pw.toml"
-hash = "21d65a3503e8f92ebecafd5165eb56afa8da3612b1df45c587954636942673ae"
+hash = "89672bee9764894c8ab50b68c7eba9b208e97010eca159df434b4851d1ce86cf"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "e8a70e0fb28e3823e2e249837a21bc89aaf27b01278bf3fa9b3d0047bc080784"
+hash = "bb090e9eaa0a347174edefa4449cb04d0fc1e1eeb00483c844033821a34e6619"
 metafile = true
 
 [[files]]
@@ -197,12 +202,12 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "2a5a1f044c53108281b83f268f246669a04cf4eb4651aa1bd0faab6a9dda408f"
+hash = "2f69649f1658de740bd483dc45f4b4d29267c00bec0ae9d80583e6dc115044a4"
 metafile = true
 
 [[files]]
 file = "mods/roundaround-villager-converting.pw.toml"
-hash = "33ddd67b57e594e0392eabc0e0aee4ec1b37e2758e27d4f841038e461871adcc"
+hash = "d83196d1809681b0341a459bffc6aa25c578883845312aa91372bca2be165821"
 metafile = true
 
 [[files]]
@@ -217,12 +222,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8bb51207ff603427f6ec7ee2d2bba131601bc49feadff2bcdb897a946246b4b7"
+hash = "c2c6a609f0ead3039fcde3ad1c1e8f4a74dbd53efd4dbac8d511762b6c86c9c0"
 metafile = true
 
 [[files]]
 file = "mods/slotlink.pw.toml"
-hash = "441e659c041eefa0861f926bea738721cb6e0aae98589e7e7debe25cea4b5dc9"
+hash = "66c716eebb0694dbd00f696db877b58642175c0f3a70eb69c629192c7d7e76e2"
 metafile = true
 
 [[files]]
@@ -247,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "a2545ca26dcfa338761c72d2cafc001c1b27f27829cbef1e63bf16649e9a4f2d"
+hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
 metafile = true
 
 [[files]]
@@ -267,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "6bb734f8a8586407f1c3b2fcf4837abca05c0217db736a48647e28f1636e8a3e"
+hash = "6378b888b4013a8a28a53d6e55b90b946645fee7e7cdfca7103da200d73ded4d"
 metafile = true
 
 [[files]]

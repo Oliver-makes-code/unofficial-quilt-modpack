@@ -1,5 +1,5 @@
 name = "JourneyMap"
-filename = "journeymap-1.19-5.8.5-fabric.jar"
+filename = "journeymap-1.19.1-5.9.0beta2-fabric.jar"
 side = "both"
 
 [download]
@@ -10,7 +10,7 @@ hash = "2eaa134187977d077f6fe2d5d124b1990a7a39c7"
 [update]
 [update.modrinth]
 mod-id = "lfHFW1mp"
-version = "13mFdp57"
+version = "GWk9Bj6f"
 
 [option]
 optional = true

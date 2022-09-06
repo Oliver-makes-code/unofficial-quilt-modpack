@@ -1,13 +1,13 @@
 name = "More Frogs"
-filename = "morefrogs-1.19.x-1.2.0.jar"
+filename = "morefrogs-1.19.x-1.2.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iBGoeZ40/versions/1.19.x-fabric/morefrogs-1.19.x-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/iBGoeZ40/versions/mGqvnIrn/morefrogs-1.19.x-1.2.2-fabric.jar"
 hash-format = "sha1"
-hash = "b2962c9ffba29ddd033da5b010c6181cd7c7b6aa"
+hash = "de7420ab75302b289c9c0dd69f5dc1cc1abc2829"
 
 [update]
 [update.modrinth]
 mod-id = "iBGoeZ40"
-version = "hDqKqiUL"
+version = "mGqvnIrn"

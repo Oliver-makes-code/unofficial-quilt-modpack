@@ -21,11 +21,6 @@ hash = "c59209e703e553f58306aa1a66dc30a58476f89ad2d40da540508dc72fe0311f"
 metafile = true
 
 [[files]]
-file = "mods/beaconoverhaul.pw.toml"
-hash = "8d9f656e859911e49044d7ec002b0cce0b9ed1102f6893244441487e6b7079be"
-metafile = true
-
-[[files]]
 file = "mods/bits-and-chisels.pw.toml"
 hash = "e7d7b42cc3b56d79d18599f936742b711f849b372ca4b6106a5d00d624573d59"
 metafile = true
